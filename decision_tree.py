@@ -129,7 +129,7 @@ class DecisionTree:
         plt.show()
         return accuracies
 
-df = pd.read_csv("Data.csv")
+df = pd.read_csv("data.csv")
 label_encoder = LabelEncoder()
 df["Genus"] = label_encoder.fit_transform(df["Genus"])
 

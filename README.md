@@ -31,7 +31,7 @@ A simple accuracy function is defined to measure the performance of the model on
 ### 5. Depth vs Accuracy Plot:
 The implementation includes a feature to visualize the impact of tree depth on test accuracy, allowing for easy hyperparameter tuning.
 
-![Logo](depth_vs_accuracy_plot.png)
+![Logo](images/depth_vs_accuracy_plot.png)
 
 ## Dataset
 
